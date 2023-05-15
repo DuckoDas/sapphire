@@ -41,7 +41,6 @@ export default class SapphireBot extends SapphireClient {
       ],
       loadMessageCommandListeners: true,
     });
-
     this.config = config;
   }
 
