@@ -1,1 +1,1 @@
-# MOVED TO https://github.com/SapphireDevs/sapphire
+## Updates will be posted at https://github.com/SapphireDevs/sapphire
